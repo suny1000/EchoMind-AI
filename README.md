@@ -5,7 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-> **🏆 Hackathon-Ready Climate Education Platform**  
+> **🏆 Climate Education Platform**  
 > An AI-powered web application that gamifies climate literacy through interactive tutoring, carbon footprint tracking, and community challenges.
 
 ![EcoMind AI Hero](https://via.placeholder.com/1200x600/22c55e/ffffff?text=EcoMind+AI+-+Climate+Education+Platform)
@@ -319,7 +319,6 @@ We welcome contributions from developers, educators, and climate advocates!
 - Update documentation as needed
 
 ### Community
-- **Discord server** for real-time collaboration
 - **Monthly contributor calls** for planning and updates
 - **Issue templates** for bug reports and feature requests
 - **Code of conduct** ensuring inclusive environment
@@ -338,13 +337,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact & Support
 
-- **Website**: [ecomind-ai.vercel.app](https://ecomind-ai.vercel.app)
-- **Email**: support@ecomind-ai.com
-- **Twitter**: [@EcoMindAI](https://twitter.com/EcoMindAI)
-- **Discord**: [Join our community](https://discord.gg/ecomind-ai)
-
+- **Website**: [ecomind-ai.vercel.app]((https://echo-mind-ai-azure.vercel.app/))
+- **Email**: sksmovies11@gmail.com
 ---
 
-**Built with ❤️ for our planet's future 🌍**
 
 *EcoMind AI - Because understanding climate change is the first step to solving it.*
