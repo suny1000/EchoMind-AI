@@ -1,6 +1,5 @@
 # 🌍 EcoMind AI - Your Climate Literacy Companion
 
-[![Made with Lovable](https://img.shields.io/badge/Made%20with-Lovable-ff69b4.svg)](https://lovable.dev)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -8,7 +7,6 @@
 > **🏆 Climate Education Platform**  
 > An AI-powered web application that gamifies climate literacy through interactive tutoring, carbon footprint tracking, and community challenges.
 
-![EcoMind AI Hero](https://via.placeholder.com/1200x600/22c55e/ffffff?text=EcoMind+AI+-+Climate+Education+Platform)
 
 ## 🌟 Project Overview
 
